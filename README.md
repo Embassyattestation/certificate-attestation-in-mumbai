@@ -77,8 +77,6 @@ The sequence is not necessarily identical for every document. It can depend on t
 
 Do not assume that every document requires embassy attestation or that apostille automatically guarantees acceptance for every overseas application.
 
-For official guidance, consult the [Ministry of External Affairs' attestation and apostille information](https://www.mea.gov.in/apostille-menu.htm).
-
 ## Step 3: Check Whether Preliminary Verification Is Required
 
 Preliminary authentication is an important part of preparing certain documents for subsequent MEA attestation or apostille.
